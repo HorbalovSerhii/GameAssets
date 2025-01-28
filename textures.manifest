@@ -1,0 +1,97 @@
+ManifestFileVersion: 0
+CRC: 1258883971
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d80711d32454fb36a7bec4b0b5e02d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2d80711d32454fb36a7bec4b0b5e02d9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/_Textures/Character/Character_V2_MS.png
+- Assets/Bundles/_Textures/baseSegment/BaseSegment_N.png
+- Assets/Bundles/_Textures/DragonBones/DragonBones_MS.png
+- Assets/Bundles/_Textures/Sphere/Sphere_002/Sphere_002_MS.png
+- Assets/Bundles/_Textures/teleportDestroy/teleportDestroy_MS.png
+- Assets/Bundles/_Textures/teleport/IslandTeleport_E.png
+- Assets/Bundles/_Textures/Sphere/Sphere_005/Sphere_005_A.png
+- Assets/Bundles/_Textures/energySegment/energySegment_N.png
+- Assets/Bundles/_Textures/borderSegment/BorderSegment_MS.png
+- Assets/Bundles/_Textures/Sphere/Sphere_005/Sphere_005_MS.png
+- Assets/Bundles/_Textures/Sphere/Sphere_007/Sphere_007_MS.png
+- Assets/Bundles/_Textures/Sphere/Sphere_001/Sphere_001_MS.png
+- Assets/Bundles/_Textures/energySegment/energySegment_MS.png
+- Assets/Bundles/_Textures/teleport/Teleport_E.png
+- Assets/Bundles/_Textures/baseSegment/BaseSegment_A.png
+- Assets/Bundles/_Textures/startSegment/StartSegment_A.png
+- Assets/Bundles/_Textures/Sphere/Sphere_001/Sphere_001_N.png
+- Assets/Bundles/_Textures/DragonBones/DragonBones_A.png
+- Assets/Bundles/_Textures/Sphere/Sphere_004/Sphere_004_N.png
+- Assets/Bundles/_Textures/Sphere/Sphere_005/Sphere_005_N.png
+- Assets/Bundles/_Textures/Sphere/Sphere_009/Sphere_009_A.png
+- Assets/Bundles/_Textures/Sphere/Sphere_010/Sphere_010_N.png
+- Assets/Bundles/_Textures/bomb/bomb_E.png
+- Assets/Bundles/_Textures/Sphere/Sphere_004/Sphere_004_A.png
+- Assets/Bundles/_Textures/teleport/Teleport_N.png
+- Assets/Bundles/_Textures/edgeSegment/EdgeSegment_A.png
+- Assets/Bundles/_Textures/Sphere/Sphere_007/Sphere_007_A.png
+- Assets/Bundles/_Textures/chest/Chest_E.png
+- Assets/Bundles/_Textures/crater/crater_N.png
+- Assets/Bundles/_Textures/Sphere/Sphere_002/Sphere_002_N.png
+- Assets/Bundles/_Textures/chest/Chest_MS.png
+- Assets/Bundles/_Textures/Sphere/Sphere_010/Sphere_010_MS.png
+- Assets/Bundles/_Textures/Sphere/Sphere_007/Sphere_007_N.png
+- Assets/Bundles/_Textures/Sphere/Sphere_006/Sphere_006_N.png
+- Assets/Bundles/_Textures/teleport/Teleport_A.png
+- Assets/Bundles/_Textures/Sphere/Sphere_003/Sphere_003_N.png
+- Assets/Bundles/_Textures/energySegment/energySegment_E.png
+- Assets/Bundles/_Textures/teleport/Teleport_MS.png
+- Assets/Bundles/_Textures/startSegment/StartSegment_E.png
+- Assets/Bundles/_Textures/antenna/Antenna_A.png
+- Assets/Bundles/_Textures/bomb/bomb_N.png
+- Assets/Bundles/_Textures/antenna/Antenna_E.png
+- Assets/Bundles/_Textures/Sphere/Sphere_003/Sphere_003_A.png
+- Assets/Bundles/_Textures/crater/crater_E.png
+- Assets/Bundles/_Textures/Sphere/Sphere_008/Sphere_008_A.png
+- Assets/Bundles/_Textures/energySegment/energySegment_A.png
+- Assets/Bundles/_Textures/Sphere/Sphere_008/Sphere_008_N.png
+- Assets/Bundles/_Textures/Character/Character_V2_N.png
+- Assets/Bundles/_Textures/Sphere/Sphere_009/Sphere_009_MS.png
+- Assets/Bundles/_Textures/Sphere/Sphere_010/Sphere_010_A.png
+- Assets/Bundles/_Textures/chest/Chest_A.png
+- Assets/Bundles/_Textures/borderSegment/BorderSegment_N.png
+- Assets/Bundles/_Textures/Sphere/Sphere_009/Sphere_009_N.png
+- Assets/Bundles/_Textures/Sphere/Sphere_006/Sphere_006_A.png
+- Assets/Bundles/_Textures/startSegment/StartSegment_N.png
+- Assets/Bundles/_Textures/baseSegment/BaseSegment_MS.png
+- Assets/Bundles/_Textures/Character/Character_V2_E.png
+- Assets/Bundles/_Textures/crater/crater_MS.png
+- Assets/Bundles/_Textures/edgeSegment/EdgeSegment_MS.png
+- Assets/Bundles/_Textures/bomb/bomb_A.png
+- Assets/Bundles/_Textures/Character/Character_V2_A.png
+- Assets/Bundles/_Textures/Sphere/Sphere_004/Sphere_004_MS.png
+- Assets/Bundles/_Textures/teleportDestroy/teleportDestroy_A.png
+- Assets/Bundles/_Textures/Sphere/Sphere_006/Sphere_006_MS.png
+- Assets/Bundles/_Textures/Sphere/Sphere_001/Sphere_001_A.png
+- Assets/Bundles/_Textures/antenna/Antenna_N.png
+- Assets/Bundles/_Textures/Sphere/Sphere_008/Sphere_008_MS.png
+- Assets/Bundles/_Textures/antenna/Antenna_MS.png
+- Assets/Bundles/_Textures/teleportDestroy/teleportDestroy_N.png
+- Assets/Bundles/_Textures/bomb/bomb_MS.png
+- Assets/Bundles/_Textures/Sphere/Sphere_002/Sphere_002_A.png
+- Assets/Bundles/_Textures/borderSegment/BorderSegment_A.png
+- Assets/Bundles/_Textures/Sphere/Sphere_003/Sphere_003_MS.png
+- Assets/Bundles/_Textures/crater/crater_A.png
+- Assets/Bundles/_Textures/edgeSegment/EdgeSegment_N.png
+- Assets/Bundles/_Textures/chest/Chest_N.png
+- Assets/Bundles/_Textures/DragonBones/DragonBones_N.png
+- Assets/Bundles/_Textures/startSegment/StartSegment_MS.png
+Dependencies: []
